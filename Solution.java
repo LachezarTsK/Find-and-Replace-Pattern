@@ -4,8 +4,8 @@ import java.util.List;
 
 public class Solution {
 
-    static final int ALPHABET_SIZE = 26;
-    static final char EMPTY = '\u0000';
+    private static final int ALPHABET_SIZE = 26;
+    private static final char EMPTY = '\u0000';
 
     public List<String> findAndReplacePattern(String[] words, String pattern) {
 
